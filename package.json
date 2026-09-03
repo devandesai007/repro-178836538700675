@@ -1,5 +1,6 @@
 {
   "name": "@integrichain-repro/ui-components",
   "version": "1.0.0-rc.1",
-  "private": true
+  "private": true,
+  "description": "followup push"
 }
